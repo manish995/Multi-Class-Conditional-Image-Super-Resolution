@@ -1,0 +1,14 @@
+
+# *.json
+*.h5
+*.pt
+
+*.hdf5
+# .DS_Store
+
+data/*
+# implementations/*/data
+implementations/*/images
+implementations/*/saved_models
+
+# __pycache__
